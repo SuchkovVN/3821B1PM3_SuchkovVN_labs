@@ -1,0 +1,3 @@
+C:/Users/Professional/Desktop/MyRep/Complex/build/CMakeFiles/Lab_2.dir
+C:/Users/Professional/Desktop/MyRep/Complex/build/CMakeFiles/edit_cache.dir
+C:/Users/Professional/Desktop/MyRep/Complex/build/CMakeFiles/rebuild_cache.dir
