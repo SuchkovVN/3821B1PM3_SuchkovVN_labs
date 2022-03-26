@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build"
+			"value" : "c:/Users/Professional/Desktop/MyRep/Complex/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1"
+			"value" : "C:/Users/Professional/Desktop/MyRep/Complex"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Lab_1"
+			"value" : "C:/Program Files (x86)/Lab_2"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Lab_1"
+			"value" : "Lab_2"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1330,7 +1330,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Lab_1_BINARY_DIR",
+			"name" : "Lab_2_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1339,10 +1339,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build"
+			"value" : "C:/Users/Professional/Desktop/MyRep/Complex/build"
 		},
 		{
-			"name" : "Lab_1_IS_TOP_LEVEL",
+			"name" : "Lab_2_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1354,7 +1354,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Lab_1_SOURCE_DIR",
+			"name" : "Lab_2_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1363,7 +1363,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1"
+			"value" : "C:/Users/Professional/Desktop/MyRep/Complex"
 		}
 	],
 	"kind" : "cache",

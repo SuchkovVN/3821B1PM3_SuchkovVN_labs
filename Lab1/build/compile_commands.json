@@ -1,42 +1,42 @@
 [
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TPolygons.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\TPolygons.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/TPolygons.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TPolygons.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\TPolygons.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/TPolygons.cpp"
 },
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TQuadrangle.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\TQuadrangle.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/TQuadrangle.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TQuadrangle.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\TQuadrangle.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/TQuadrangle.cpp"
 },
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TRegTriangle.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\TRegTriangle.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/TRegTriangle.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TRegTriangle.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\TRegTriangle.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/TRegTriangle.cpp"
 },
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TRegulars.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\TRegulars.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/TRegulars.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TRegulars.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\TRegulars.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/TRegulars.cpp"
 },
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TRightTriangles.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\TRightTriangles.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/TRightTriangles.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TRightTriangles.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\TRightTriangles.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/TRightTriangles.cpp"
 },
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TSquare.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\TSquare.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/TSquare.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TSquare.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\TSquare.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/TSquare.cpp"
 },
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TTriangles.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\TTriangles.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/TTriangles.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\TTriangles.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\TTriangles.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/TTriangles.cpp"
 },
 {
-  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\main.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\src\\main.cpp",
-  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/src/main.cpp"
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_1.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_1.dir\\src\\main.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab1\\src\\main.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab1/src/main.cpp"
 }
 ]
