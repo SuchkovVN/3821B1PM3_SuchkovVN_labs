@@ -5,10 +5,12 @@
 int main() {
   TComplex a(3.0, 4.0);
   TComplex b(1.5, 3.0);
-  TComplex c;
+  TComplex c, d;
   cout << a << " " << b << " " << c << "\n";
 
   a.PrintTrig();
+  d = a.RationalPow(3, 1);
+  cout << d << "\n";
 
   c = a + b; 
   cout << c << "\n";
@@ -22,20 +24,15 @@ int main() {
   c = c * 2;
   cout << c << "\n";
   c = a + b; 
-  cout << "Abs: " <<c.CAbs() << "Argument:  " << c.Arg() << "\n";
-  c.PrintTrig();
+  cout << "Abs: " <<c.CAbs() << " Argument:  " << c.Arg() << "\n";
+  c.PrintTrig(); 
 
   c = 0.0;
 
   cin >> c; 
   cout << c << "\n";
-
-
-
-
-
-  
-
+  c = c.RationalPow(1, 2);
+  cout << c << "\n";
 
   return 0;
 }

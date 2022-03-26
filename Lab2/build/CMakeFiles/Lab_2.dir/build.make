@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Professional\Desktop\MyRep\Complex
+CMAKE_SOURCE_DIR = C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Professional\Desktop\MyRep\Complex\build
+CMAKE_BINARY_DIR = C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lab_2.dir/depend.make
@@ -72,31 +72,31 @@ CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj: CMakeFiles/Lab_2.dir/flags.make
 CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj: CMakeFiles/Lab_2.dir/includes_CXX.rsp
 CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj: ../src/TComplex.cpp
 CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj: CMakeFiles/Lab_2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\Complex\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj -MF CMakeFiles\Lab_2.dir\src\TComplex.cpp.obj.d -o CMakeFiles\Lab_2.dir\src\TComplex.cpp.obj -c C:\Users\Professional\Desktop\MyRep\Complex\src\TComplex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj -MF CMakeFiles\Lab_2.dir\src\TComplex.cpp.obj.d -o CMakeFiles\Lab_2.dir\src\TComplex.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\src\TComplex.cpp
 
 CMakeFiles/Lab_2.dir/src/TComplex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_2.dir/src/TComplex.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\Complex\src\TComplex.cpp > CMakeFiles\Lab_2.dir\src\TComplex.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\src\TComplex.cpp > CMakeFiles\Lab_2.dir\src\TComplex.cpp.i
 
 CMakeFiles/Lab_2.dir/src/TComplex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_2.dir/src/TComplex.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\Complex\src\TComplex.cpp -o CMakeFiles\Lab_2.dir\src\TComplex.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\src\TComplex.cpp -o CMakeFiles\Lab_2.dir\src\TComplex.cpp.s
 
 CMakeFiles/Lab_2.dir/src/main.cpp.obj: CMakeFiles/Lab_2.dir/flags.make
 CMakeFiles/Lab_2.dir/src/main.cpp.obj: CMakeFiles/Lab_2.dir/includes_CXX.rsp
 CMakeFiles/Lab_2.dir/src/main.cpp.obj: ../src/main.cpp
 CMakeFiles/Lab_2.dir/src/main.cpp.obj: CMakeFiles/Lab_2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\Complex\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab_2.dir/src/main.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_2.dir/src/main.cpp.obj -MF CMakeFiles\Lab_2.dir\src\main.cpp.obj.d -o CMakeFiles\Lab_2.dir\src\main.cpp.obj -c C:\Users\Professional\Desktop\MyRep\Complex\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab_2.dir/src/main.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_2.dir/src/main.cpp.obj -MF CMakeFiles\Lab_2.dir\src\main.cpp.obj.d -o CMakeFiles\Lab_2.dir\src\main.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\src\main.cpp
 
 CMakeFiles/Lab_2.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_2.dir/src/main.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\Complex\src\main.cpp > CMakeFiles\Lab_2.dir\src\main.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\src\main.cpp > CMakeFiles\Lab_2.dir\src\main.cpp.i
 
 CMakeFiles/Lab_2.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_2.dir/src/main.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\Complex\src\main.cpp -o CMakeFiles\Lab_2.dir\src\main.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\src\main.cpp -o CMakeFiles\Lab_2.dir\src\main.cpp.s
 
 # Object files for target Lab_2
 Lab_2_OBJECTS = \
@@ -112,7 +112,7 @@ Lab_2.exe: CMakeFiles/Lab_2.dir/build.make
 Lab_2.exe: CMakeFiles/Lab_2.dir/linklibs.rsp
 Lab_2.exe: CMakeFiles/Lab_2.dir/objects1.rsp
 Lab_2.exe: CMakeFiles/Lab_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Professional\Desktop\MyRep\Complex\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Lab_2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Lab_2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lab_2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +124,6 @@ CMakeFiles/Lab_2.dir/clean:
 .PHONY : CMakeFiles/Lab_2.dir/clean
 
 CMakeFiles/Lab_2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Professional\Desktop\MyRep\Complex C:\Users\Professional\Desktop\MyRep\Complex C:\Users\Professional\Desktop\MyRep\Complex\build C:\Users\Professional\Desktop\MyRep\Complex\build C:\Users\Professional\Desktop\MyRep\Complex\build\CMakeFiles\Lab_2.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2 C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2 C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\build C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\build C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab2\build\CMakeFiles\Lab_2.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Lab_2.dir/depend
 

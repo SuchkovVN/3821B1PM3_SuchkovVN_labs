@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Professional/Desktop/MyRep/Complex/src/TComplex.cpp" "CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj" "gcc" "CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj.d"
-  "C:/Users/Professional/Desktop/MyRep/Complex/src/main.cpp" "CMakeFiles/Lab_2.dir/src/main.cpp.obj" "gcc" "CMakeFiles/Lab_2.dir/src/main.cpp.obj.d"
+  "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab2/src/TComplex.cpp" "CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj" "gcc" "CMakeFiles/Lab_2.dir/src/TComplex.cpp.obj.d"
+  "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab2/src/main.cpp" "CMakeFiles/Lab_2.dir/src/main.cpp.obj" "gcc" "CMakeFiles/Lab_2.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links.

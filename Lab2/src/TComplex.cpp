@@ -2,6 +2,8 @@
 #include "TComplex.h"
 #include <math.h>
 
+#define PI 3.1415926
+
 using namespace std;
 
 TComplex::TComplex() {
@@ -145,37 +147,51 @@ double TComplex::CAbs() {
 }
 
 double TComplex::Arg() {
-  if(Re == 0)
-    return 0.0;
+  if(Re == 0) {
+    if(Im == 0)
+      return 0.0;
+    if(Im > 0)
+      return PI/2;
+    if(Im < 0)
+      return -PI/2;
+  }
+  if(Im == 0) {
+    if(Re > 0)
+      return PI;
+    if(Re < 0)
+      return -PI;
+  }
   return atan(Im/Re);
 }
 
-TComplex TComplex::RationalPow(int p, int q) {
+TComplex TComplex::RationalPow(const int p, const int q) {
   if(q == 0)  
     throw "Error: divide by zero";
   if(p == 0)
-    return 0.0;
+    return 1;
+  if(p == q)
+    return *this;
 
-  TComplex temp = *this;
-  int m, n; //m - числитель 
+  double m, n; //m - числитель 
 
   if(q < 0) {
     n = -q;
     m = -p;
   }
-  else {
+  else{
     n = q;
     m = p;
   }
 
-  double arg = temp.Arg();
-  double r = temp.CAbs();
+  TComplex temp;
 
-  temp.SetComplexRe(r*(cos(m / n * arg)));
-  temp.SetComplexIm(r*(sin(m / n * arg)));
+  double arg = this->Arg();
+  double r = this->CAbs();
+  r = pow(r, m / n);
+  temp.Re = r*(cos((m / n) * arg));
+  temp.Im = r*(sin((m / n) * arg));
 
   return temp;
-
 }
 
 void TComplex::PrintTrig() {

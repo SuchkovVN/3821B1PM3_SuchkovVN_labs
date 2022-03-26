@@ -18,7 +18,7 @@ public:
   double CAbs(); //модуль комплксного числа 
   double Arg();
   void PrintTrig(); //вывод в триг форме
-  TComplex RationalPow(int p, int q); // возведение в дробную степень с чеслителем p и знаменателем q 
+  TComplex RationalPow(const int p, const int q); // возведение в дробную степень с чеслителем p и знаменателем q 
   TComplex& operator=(const TComplex& p);
 
   friend TComplex operator+(const TComplex& p, const TComplex& q);
