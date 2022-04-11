@@ -1,6 +1,6 @@
 ﻿cmake_minimum_required(VERSION 3.0) #Проверка версии CMake.
 
-project(Lab_2 VERSION 0.0.1 LANGUAGES C CXX) 
+project(Lab_3 VERSION 0.0.1 LANGUAGES C CXX) 
 
 set(CMAKE_CONFIGURATION_TYPES "Debug;Release" CACHE STRING "Configs" FORCE) #Создается переменная CMAKE_CONFIGURATION_TYPES со значением "Debug;Release" и меткой/разделом Configs, переменная сохраниется в специальном файле доступном из всех файлов,
 if(NOT CMAKE_BUILD_TYPE) # проверка имеющихся у компилятора вариантов сборки

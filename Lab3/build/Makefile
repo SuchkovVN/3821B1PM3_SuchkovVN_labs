@@ -116,24 +116,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Lab_2
+# Target rules for targets named Lab_3
 
 # Build rule for target.
-Lab_2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Lab_2
-.PHONY : Lab_2
+Lab_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Lab_3
+.PHONY : Lab_3
 
 # fast build rule for target.
-Lab_2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_2.dir\build.make CMakeFiles/Lab_2.dir/build
-.PHONY : Lab_2/fast
+Lab_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_3.dir\build.make CMakeFiles/Lab_3.dir/build
+.PHONY : Lab_3/fast
 
 src/TString.obj: src/TString.cpp.obj
 .PHONY : src/TString.obj
 
 # target to build an object file
 src/TString.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_2.dir\build.make CMakeFiles/Lab_2.dir/src/TString.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_3.dir\build.make CMakeFiles/Lab_3.dir/src/TString.cpp.obj
 .PHONY : src/TString.cpp.obj
 
 src/TString.i: src/TString.cpp.i
@@ -141,7 +141,7 @@ src/TString.i: src/TString.cpp.i
 
 # target to preprocess a source file
 src/TString.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_2.dir\build.make CMakeFiles/Lab_2.dir/src/TString.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_3.dir\build.make CMakeFiles/Lab_3.dir/src/TString.cpp.i
 .PHONY : src/TString.cpp.i
 
 src/TString.s: src/TString.cpp.s
@@ -149,7 +149,7 @@ src/TString.s: src/TString.cpp.s
 
 # target to generate assembly for a file
 src/TString.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_2.dir\build.make CMakeFiles/Lab_2.dir/src/TString.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_3.dir\build.make CMakeFiles/Lab_3.dir/src/TString.cpp.s
 .PHONY : src/TString.cpp.s
 
 src/main.obj: src/main.cpp.obj
@@ -157,7 +157,7 @@ src/main.obj: src/main.cpp.obj
 
 # target to build an object file
 src/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_2.dir\build.make CMakeFiles/Lab_2.dir/src/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_3.dir\build.make CMakeFiles/Lab_3.dir/src/main.cpp.obj
 .PHONY : src/main.cpp.obj
 
 src/main.i: src/main.cpp.i
@@ -165,7 +165,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_2.dir\build.make CMakeFiles/Lab_2.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_3.dir\build.make CMakeFiles/Lab_3.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -173,7 +173,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_2.dir\build.make CMakeFiles/Lab_2.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab_3.dir\build.make CMakeFiles/Lab_3.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 # Help Target
@@ -184,7 +184,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Lab_2
+	@echo ... Lab_3
 	@echo ... src/TString.obj
 	@echo ... src/TString.i
 	@echo ... src/TString.s

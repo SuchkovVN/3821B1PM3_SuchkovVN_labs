@@ -167,10 +167,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/MinGW/bin/mingw32-g++.exe"
 		},
 		{
@@ -311,10 +311,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/MinGW/bin/mingw32-gcc.exe"
 		},
 		{
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Lab_2"
+			"value" : "C:/Program Files (x86)/Lab_3"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Lab_2"
+			"value" : "Lab_3"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1330,7 +1330,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Lab_2_BINARY_DIR",
+			"name" : "Lab_3_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1342,7 +1342,7 @@
 			"value" : "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab3/build"
 		},
 		{
-			"name" : "Lab_2_IS_TOP_LEVEL",
+			"name" : "Lab_3_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1354,7 +1354,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Lab_2_SOURCE_DIR",
+			"name" : "Lab_3_SOURCE_DIR",
 			"properties" : 
 			[
 				{

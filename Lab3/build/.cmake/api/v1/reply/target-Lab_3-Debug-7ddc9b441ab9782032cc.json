@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Lab_2.exe"
+			"path" : "Lab_3.exe"
 		},
 		{
-			"path" : "Lab_2.pdb"
+			"path" : "Lab_3.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -63,7 +63,7 @@
 			]
 		}
 	],
-	"id" : "Lab_2::@6890427a1f51a3e7e1df",
+	"id" : "Lab_3::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -83,8 +83,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Lab_2",
-	"nameOnDisk" : "Lab_2.exe",
+	"name" : "Lab_3",
+	"nameOnDisk" : "Lab_3.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -124,7 +124,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "include/TString.h",
+			"path" : "include/String.h",
 			"sourceGroupIndex" : 1
 		}
 	],
