@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libSTATIC.a CMakeFiles/STATIC.dir/Vector.cpp.obj
+C:\mingw64\bin\ranlib.exe libSTATIC.a

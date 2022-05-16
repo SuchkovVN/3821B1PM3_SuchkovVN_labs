@@ -353,12 +353,14 @@ void TString::CharQuantity(char *&ltrs, int *&quant, int& size) {
 char TString::MostFreq() {
   char *ltrs;
   int *quan;
-  int size, max = 0;
+  int size, max = 0, k = 0;
   CharQuantity(ltrs, quan, size);
 
   for(int i = 0; i < size; i++) {
-    if(quan[i] >= max)
+    if(quan[i] >= max) {
       max = quan[i];
+      k = i;
+    }
   }
-  return ltrs[max];
+  return ltrs[k];
 }

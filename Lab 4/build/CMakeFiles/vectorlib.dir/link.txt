@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libvectorlib.a CMakeFiles/vectorlib.dir/vectorlib/Vector.cpp.obj CMakeFiles/vectorlib.dir/vectorlib/Matrix.cpp.obj
+C:\mingw64\bin\ranlib.exe libvectorlib.a

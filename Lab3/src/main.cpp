@@ -2,9 +2,9 @@
 
 int main() {
 try{
-  TString test("abbcccddddeeeeffzzx");
+  TString test("Lisa ");
   cout << test << "\n";
-  TString test_2("c");
+  TString test_2("Lisa molodec");
   //test_2 = test + test_2;
   cout << test_2 << "\n";
   TString test_3;
@@ -24,7 +24,8 @@ try{
   cout << p << '\n';
   cout << StrLen(p);
   cout << '\n' << sz_2;  
-  cout << '\n' << test.MostFreq();
+  cout << '\n' << test.MostFreq() << '\n';
+  cout << test + test_2;
 }
   
 catch(const char* s) {
