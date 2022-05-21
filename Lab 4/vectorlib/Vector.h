@@ -259,6 +259,8 @@ void TVector<T>::QuickSort() {
 }
 
 
+
+
 //######################### Операторы #########################
 template <class T>
 T& TVector<T>::operator[](const int indx) {

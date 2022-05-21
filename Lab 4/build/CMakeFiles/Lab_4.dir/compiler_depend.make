@@ -129,7 +129,10 @@ CMakeFiles/Lab_4.dir/src/main.cpp.obj: ../src/main.cpp \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/ostream.tcc \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/istream \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/istream.tcc \
-  ../vectorlib/Matrix.h
+  ../vectorlib/Matrix.h \
+  C:/mingw64/x86_64-w64-mingw32/include/time.h \
+  C:/mingw64/x86_64-w64-mingw32/include/_timeval.h \
+  C:/mingw64/x86_64-w64-mingw32/include/pthread_time.h
 
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/ios:
@@ -389,3 +392,9 @@ C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/istream:
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/istream.tcc:
 
 ../vectorlib/Matrix.h:
+
+C:/mingw64/x86_64-w64-mingw32/include/time.h:
+
+C:/mingw64/x86_64-w64-mingw32/include/_timeval.h:
+
+C:/mingw64/x86_64-w64-mingw32/include/pthread_time.h:

@@ -131,4 +131,7 @@ CMakeFiles/Lab_4.dir/src/main.cpp.obj
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/istream
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/bits/istream.tcc
  C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 4/vectorlib/Matrix.h
+ C:/mingw64/x86_64-w64-mingw32/include/time.h
+ C:/mingw64/x86_64-w64-mingw32/include/_timeval.h
+ C:/mingw64/x86_64-w64-mingw32/include/pthread_time.h
 

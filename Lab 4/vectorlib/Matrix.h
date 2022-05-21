@@ -257,7 +257,7 @@ bool TMatrix<T>::operator==(const TMatrix<T>& m) {
 
 template <class T>
 TMatrix<T>& TMatrix<T>::operator=(const TMatrix<T>& m) {
-  if(m.GetColumnsCount == 0 || m.GetRowsCount() == 0) 
+  if(m.GetColumnsCount() == 0 || m.GetRowsCount() == 0) 
     throw "Error: matrix=0-matrix";
   
   columnsCount = m.GetColumnsCount();
@@ -290,10 +290,11 @@ TMatrix<T> TMatrix<T>::operator+(const TMatrix<T>& m) {
   
   TMatrix<T> temp(columnsCount, rowsCount, 0);
 
-  for(int i = 0; i < columnsCount; i++) {
-    temp[i] = this->GetVector(i) + m.GetVector(i);
+  for(int i = 0; i < rowsCount; i++) {
+    for(int j = 0; j < columnsCount; j++) {
+      temp[j][i] = this->GetElem(i, j) + m.GetElem(i, j);
+    }
   }
-
   return temp;
 }
 
