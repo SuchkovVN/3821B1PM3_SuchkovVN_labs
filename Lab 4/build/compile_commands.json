@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 4/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/vectorlib.dir/includes_CXX.rsp -g -o CMakeFiles\\vectorlib.dir\\vectorlib\\Vector.cpp.obj -c \"C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab 4\\vectorlib\\Vector.cpp\"",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 4/vectorlib/Vector.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 4/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/vectorlib.dir/includes_CXX.rsp -g -o CMakeFiles\\vectorlib.dir\\vectorlib\\Matrix.cpp.obj -c \"C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab 4\\vectorlib\\Matrix.cpp\"",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 4/vectorlib/Matrix.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 4/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Lab_4.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_4.dir\\src\\main.cpp.obj -c \"C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab 4\\src\\main.cpp\"",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 4/src/main.cpp"
+}
+]

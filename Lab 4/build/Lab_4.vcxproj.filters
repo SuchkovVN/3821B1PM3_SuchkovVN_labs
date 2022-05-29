@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab 4\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab 4\include\Matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab 4\include\Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab 4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F32D58DA-9C4B-30CE-A066-70564C90B607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B1964C2A-D424-3576-A940-ED9A25C9F88C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

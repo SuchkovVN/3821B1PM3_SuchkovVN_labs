@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1
+CMAKE_SOURCE_DIR = C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build
+CMAKE_BINARY_DIR = C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lab_1.dir/depend.make
@@ -72,121 +72,121 @@ CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj: ../src/TPolygons.cpp
 CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TPolygons.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TPolygons.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TPolygons.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TPolygons.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TPolygons.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TPolygons.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TPolygons.cpp
 
 CMakeFiles/Lab_1.dir/src/TPolygons.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/TPolygons.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TPolygons.cpp > CMakeFiles\Lab_1.dir\src\TPolygons.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TPolygons.cpp > CMakeFiles\Lab_1.dir\src\TPolygons.cpp.i
 
 CMakeFiles/Lab_1.dir/src/TPolygons.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/TPolygons.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TPolygons.cpp -o CMakeFiles\Lab_1.dir\src\TPolygons.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TPolygons.cpp -o CMakeFiles\Lab_1.dir\src\TPolygons.cpp.s
 
 CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj: ../src/TQuadrangle.cpp
 CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TQuadrangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TQuadrangle.cpp
 
 CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TQuadrangle.cpp > CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TQuadrangle.cpp > CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.i
 
 CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/TQuadrangle.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TQuadrangle.cpp -o CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TQuadrangle.cpp -o CMakeFiles\Lab_1.dir\src\TQuadrangle.cpp.s
 
 CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj: ../src/TRegTriangle.cpp
 CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRegTriangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRegTriangle.cpp
 
 CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRegTriangle.cpp > CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRegTriangle.cpp > CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.i
 
 CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/TRegTriangle.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRegTriangle.cpp -o CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRegTriangle.cpp -o CMakeFiles\Lab_1.dir\src\TRegTriangle.cpp.s
 
 CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj: ../src/TRegulars.cpp
 CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TRegulars.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TRegulars.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRegulars.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TRegulars.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TRegulars.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TRegulars.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRegulars.cpp
 
 CMakeFiles/Lab_1.dir/src/TRegulars.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/TRegulars.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRegulars.cpp > CMakeFiles\Lab_1.dir\src\TRegulars.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRegulars.cpp > CMakeFiles\Lab_1.dir\src\TRegulars.cpp.i
 
 CMakeFiles/Lab_1.dir/src/TRegulars.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/TRegulars.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRegulars.cpp -o CMakeFiles\Lab_1.dir\src\TRegulars.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRegulars.cpp -o CMakeFiles\Lab_1.dir\src\TRegulars.cpp.s
 
 CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj: ../src/TRightTriangles.cpp
 CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRightTriangles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRightTriangles.cpp
 
 CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRightTriangles.cpp > CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRightTriangles.cpp > CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.i
 
 CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/TRightTriangles.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TRightTriangles.cpp -o CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TRightTriangles.cpp -o CMakeFiles\Lab_1.dir\src\TRightTriangles.cpp.s
 
 CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj: ../src/TSquare.cpp
 CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TSquare.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TSquare.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TSquare.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TSquare.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TSquare.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TSquare.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TSquare.cpp
 
 CMakeFiles/Lab_1.dir/src/TSquare.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/TSquare.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TSquare.cpp > CMakeFiles\Lab_1.dir\src\TSquare.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TSquare.cpp > CMakeFiles\Lab_1.dir\src\TSquare.cpp.i
 
 CMakeFiles/Lab_1.dir/src/TSquare.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/TSquare.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TSquare.cpp -o CMakeFiles\Lab_1.dir\src\TSquare.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TSquare.cpp -o CMakeFiles\Lab_1.dir\src\TSquare.cpp.s
 
 CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj: ../src/TTriangles.cpp
 CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TTriangles.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TTriangles.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TTriangles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/TTriangles.cpp.obj -MF CMakeFiles\Lab_1.dir\src\TTriangles.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\TTriangles.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TTriangles.cpp
 
 CMakeFiles/Lab_1.dir/src/TTriangles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/TTriangles.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TTriangles.cpp > CMakeFiles\Lab_1.dir\src\TTriangles.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TTriangles.cpp > CMakeFiles\Lab_1.dir\src\TTriangles.cpp.i
 
 CMakeFiles/Lab_1.dir/src/TTriangles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/TTriangles.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\TTriangles.cpp -o CMakeFiles\Lab_1.dir\src\TTriangles.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\TTriangles.cpp -o CMakeFiles\Lab_1.dir\src\TTriangles.cpp.s
 
 CMakeFiles/Lab_1.dir/src/main.cpp.obj: CMakeFiles/Lab_1.dir/flags.make
 CMakeFiles/Lab_1.dir/src/main.cpp.obj: CMakeFiles/Lab_1.dir/includes_CXX.rsp
 CMakeFiles/Lab_1.dir/src/main.cpp.obj: ../src/main.cpp
 CMakeFiles/Lab_1.dir/src/main.cpp.obj: CMakeFiles/Lab_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Lab_1.dir/src/main.cpp.obj"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/main.cpp.obj -MF CMakeFiles\Lab_1.dir\src\main.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\main.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Lab_1.dir/src/main.cpp.obj"
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lab_1.dir/src/main.cpp.obj -MF CMakeFiles\Lab_1.dir\src\main.cpp.obj.d -o CMakeFiles\Lab_1.dir\src\main.cpp.obj -c C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\main.cpp
 
 CMakeFiles/Lab_1.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab_1.dir/src/main.cpp.i"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\main.cpp > CMakeFiles\Lab_1.dir\src\main.cpp.i
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\main.cpp > CMakeFiles\Lab_1.dir\src\main.cpp.i
 
 CMakeFiles/Lab_1.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab_1.dir/src/main.cpp.s"
-	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\src\main.cpp -o CMakeFiles\Lab_1.dir\src\main.cpp.s
+	C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\src\main.cpp -o CMakeFiles\Lab_1.dir\src\main.cpp.s
 
 # Object files for target Lab_1
 Lab_1_OBJECTS = \
@@ -214,7 +214,7 @@ Lab_1.exe: CMakeFiles/Lab_1.dir/build.make
 Lab_1.exe: CMakeFiles/Lab_1.dir/linklibs.rsp
 Lab_1.exe: CMakeFiles/Lab_1.dir/objects1.rsp
 Lab_1.exe: CMakeFiles/Lab_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Lab_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Lab_1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lab_1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -226,6 +226,6 @@ CMakeFiles/Lab_1.dir/clean:
 .PHONY : CMakeFiles/Lab_1.dir/clean
 
 CMakeFiles/Lab_1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1 C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1 C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_L1\build\CMakeFiles\Lab_1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1 C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1 C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build C:\Users\Professional\Desktop\MyRep\3821B1PM3_SuchkovVN_labs\Lab1\build\CMakeFiles\Lab_1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Lab_1.dir/depend
 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab3/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_3.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_3.dir\\src\\TString.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab3\\src\\TString.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab3/src/TString.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab3/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_3.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_3.dir\\src\\main.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab3\\src\\main.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab3/src/main.cpp"
+}
+]

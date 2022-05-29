@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab2/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_2.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_2.dir\\src\\TComplex.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab2\\src\\TComplex.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab2/src/TComplex.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab2/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/Lab_2.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_2.dir\\src\\main.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab2\\src\\main.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab2/src/main.cpp"
+}
+]
