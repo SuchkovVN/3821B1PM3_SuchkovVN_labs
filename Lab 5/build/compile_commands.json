@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 5/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Lab_5.dir/includes_CXX.rsp -g -o CMakeFiles\\Lab_5.dir\\src\\main.cpp.obj -c \"C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_labs\\Lab 5\\src\\main.cpp\"",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_labs/Lab 5/src/main.cpp"
+}
+]
